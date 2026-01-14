@@ -1,1 +1,1 @@
-# Multiple Linear Regression through Ms. Excel
+# Multiple Linear Regression Using Ms. Excel
